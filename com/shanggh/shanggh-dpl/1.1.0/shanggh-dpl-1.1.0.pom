@@ -29,9 +29,5 @@
       <groupId>${mybatis.g}</groupId>
       <artifactId>${mybatis.a}</artifactId>
     </dependency>
-    <dependency>
-      <groupId>${slf4j.g}</groupId>
-      <artifactId>${slf4j.a}</artifactId>
-    </dependency>
   </dependencies>
 </project>
