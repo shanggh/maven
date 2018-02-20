@@ -6,7 +6,7 @@
   <artifactId>frame</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
-  <name>frame</name>
+  <name>shanggh-frame</name>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
