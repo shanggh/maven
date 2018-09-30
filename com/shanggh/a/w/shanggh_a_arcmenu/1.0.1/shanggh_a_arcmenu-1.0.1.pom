@@ -17,7 +17,7 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
-      <version>23.2.1</version>
+      <version>27.1.1</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
